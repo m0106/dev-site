@@ -12,7 +12,7 @@ ref: 1-api-city-lookup
 
 ## 请求URL
 
-{% include api-url.html flag="geo-city-lookup" %}
+{% include api-url.html flag="geo-city-lookup"location=荥阳&key=YOUR_KEY }
 
 ## 请求参数
 
